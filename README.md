@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/satyammm16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyammm16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
