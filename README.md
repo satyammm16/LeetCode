@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/satyammm16/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/satyammm16/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/satyammm16/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/satyammm16/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyammm16/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/satyammm16/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyammm16/LeetCode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/satyammm16/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/satyammm16/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
