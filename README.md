@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/satyammm16/LeetCode/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/satyammm16/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/satyammm16/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/satyammm16/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyammm16/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/satyammm16/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyammm16/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyammm16/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
