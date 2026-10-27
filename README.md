@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/satyammm16/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/satyammm16/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1528-shuffle-string](https://github.com/satyammm16/LeetCode/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/satyammm16/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/satyammm16/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/satyammm16/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/satyammm16/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
