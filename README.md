@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/satyammm16/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/satyammm16/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/satyammm16/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1816-truncate-sentence](https://github.com/satyammm16/LeetCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/satyammm16/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/satyammm16/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1920-build-array-from-permutation](https://github.com/satyammm16/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/satyammm16/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/satyammm16/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/satyammm16/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/satyammm16/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satyammm16/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/satyammm16/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyammm16/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
