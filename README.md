@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/satyammm16/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/satyammm16/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/satyammm16/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/satyammm16/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2469-convert-the-temperature](https://github.com/satyammm16/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/satyammm16/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyammm16/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/satyammm16/LeetCode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/satyammm16/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/satyammm16/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/satyammm16/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
