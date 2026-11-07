@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/satyammm16/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/satyammm16/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/satyammm16/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2413-smallest-even-multiple](https://github.com/satyammm16/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/satyammm16/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/satyammm16/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyammm16/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/satyammm16/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/satyammm16/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Matrix
 |  |
 | ------- |
