@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/satyammm16/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/satyammm16/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/satyammm16/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
