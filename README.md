@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/satyammm16/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/satyammm16/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/satyammm16/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2678-number-of-senior-citizens](https://github.com/satyammm16/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/satyammm16/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/satyammm16/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyammm16/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/satyammm16/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2678-number-of-senior-citizens](https://github.com/satyammm16/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/satyammm16/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Simulation
 |  |
