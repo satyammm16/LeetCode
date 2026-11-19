@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/satyammm16/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/satyammm16/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1920-build-array-from-permutation](https://github.com/satyammm16/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/satyammm16/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/satyammm16/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/satyammm16/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/satyammm16/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/satyammm16/LeetCode/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/satyammm16/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/satyammm16/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/satyammm16/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/satyammm16/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Bit Manipulation
 |  |
